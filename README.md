@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrrjew&row=1" alt="mrrjew" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codesagej" target="blank"><img src="https://img.shields.io/twitter/follow/codesagej?logo=twitter&style=for-the-badge" alt="manuel___dev" /></a> </p>
+<p align="left"> <a href="https://x.com/JewLarbi" target="blank"><img src="https://img.shields.io/twitter/follow/codesagej?logo=twitter&style=for-the-badge" alt="manuel___dev" /></a> </p>
 <img align = "right" alt = "coding" width ="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on *a lot of things*
