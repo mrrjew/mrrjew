@@ -1,32 +1,142 @@
-<h1 align="center">Hi 👋, I'm Jew Larbi Danquah</h1>
-<h3 align="center">Software Engineer from Accra,Ghana</h3>
+<!-- HEADER -->
+<h1 align="center">🚀 Jew Larbi Danquah</h1>
+<h3 align="center">AI-Augmented Backend Engineer • Microservices • Cloud • Distributed Systems</h3>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrrjew&row=1" alt="mrrjew" /></a> </p>
-
-<p align="left"> <a href="https://x.com/JewLarbi" target="blank"><img src="https://img.shields.io/twitter/follow/JewLarbi?logo=twitter&style=for-the-badge" alt="manuel___dev" /></a> </p>
-<img align = "right" alt = "coding" width ="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-- 🔭 I’m currently working on *a lot of things*
-
-- 🌱 I’m currently learning *Backend Development*
-
-- 📫 How to reach me <a href = "mailto:jwlarbi15@gmail.com">Email</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/JewLarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonof_god_" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/jew-larbi-danquah-2296b5234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jew-larbi-danquah-2296b5234" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18639970/jew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khalboy" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrrjew&theme=radical&margin-w=10&no-frame=true" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a><a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrrjew&show_icons=true&locale=en&layout=compact" alt="mrrjew" /></p>
+<!-- INTRO -->
+## 🌟 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrjew&show_icons=true&locale=en" alt="mrrjew" /></p>
+I am an **AI-augmented backend engineer** specializing in building **scalable microservices**,  
+API-driven systems, and **cloud-native applications**. My workflow blends  
+**software engineering + AI acceleration**, helping me ship faster, learn deeper,  
+and design more robust architectures.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrrjew&" alt="mrrjew" /></p>
+I focus heavily on:
+
+- 🧠 AI-augmented development & system design  
+- 🏗 Microservices (gateway → services → events)  
+- 📡 High-performance backend engineering  
+- ☁️ Cloud deployments (Render / Vercel / GCP)  
+- 🛠 Production-grade tooling, CI/CD, Docker  
+- 🧾 Payment Integrations (Paystack)  
+
+---
+
+## 🔥 What I Currently Build & Manage
+
+### **🏗 Backend Engineering**
+- API design — REST + gRPC  
+- NestJS modular architectures  
+- Auth systems (JWT, sessions, role-based access)  
+- Validation, caching, rate limiting  
+
+### **🧩 Microservices Architecture**
+- Service-to-service communication  
+- API Gateway patterns  
+- Event-driven communication  
+- Message queues (RabbitMQ / Redis streams)  
+
+### **💾 Databases & Persistence**
+- Relational: PostgreSQL  
+- NoSQL: MongoDB  
+- In-memory: Redis  
+- Migrations, indexing, query optimization  
+
+### **☁️ Cloud, DevOps, & Deployment**
+- Render for microservices  
+- Vercel for frontend  
+- GCP (Cloud Run, Compute, Storage)  
+- Docker, container orchestration  
+- CI/CD with GitHub Actions  
+- Observability: logs, metrics, health checks  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+
+  <!-- Backend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nest" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" />
+
+  <!-- API Protocols -->
+  <img src="https://skillicons.dev/icons?i=grpc" height="45" />
+  <img src="https://img.shields.io/badge/REST-0A66C2?style=for-the-badge&logoColor=white" height="28" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+
+  <!-- Messaging -->
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="45" />
+
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" />
+
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=gcp" height="45" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+  <img src="https://skillicons.dev/icons?i=render" height="45" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+
+</p>
+
+---
+
+## ⚡ AI-Augmented Learning Path
+
+I use AI to accelerate mastery in:
+
+- Backend engineering (DSA → APIs → architecture)  
+- Cloud engineering fundamentals  
+- Distributed systems  
+- Databases + query design  
+- DevOps workflows  
+- Performance + debugging skills  
+
+My approach:  
+**Learn → Build → Optimize → Ship → Repeat** with AI as a co-engineer.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrrjew&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrjew&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrrjew&theme=radical" />
+</p>
+
+---
+
+## 📫 Reach Me
+
+- **X (Twitter):** https://x.com/mrrjew 
+- **GitHub:** https://github.com/mrrjew  
+
+---
+
+<h3 align="center">⚡ Building. Learning. Scaling.</h3>
